@@ -1,2 +1,4 @@
 # Rush-Hour
-Sliding block board game implementation in C++ with OOP
+Sliding block board game implementation in C++ with OOP.
+
+
